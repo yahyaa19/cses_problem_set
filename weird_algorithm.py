@@ -26,5 +26,5 @@ def weird_algorithm(n):
     print(1)
 
 if __name__ == '__main__':
-    n = int(input("Enter a number: "))
+    n = int(input())
     weird_algorithm(n)
